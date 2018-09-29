@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "89356310898",
+    "firebase_url": "https://tugas-rumah.firebaseio.com",
+    "project_id": "tugas-rumah",
+    "storage_bucket": "tugas-rumah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89356310898:android:0d8231b18ea163d3",
+        "android_client_info": {
+          "package_name": "id.rafilutfansyah.tugasrumah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89356310898-uggpan69mlfuisc71fb15ea3bj9n6nbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rafilutfansyah.tugasrumah",
+            "certificate_hash": "85782db0c1413cf4b9dc3eb87c8dec7e8b160871"
+          }
+        },
+        {
+          "client_id": "89356310898-6vjptoet726n3vjcuo8462l6lnd53up4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWQ9Py7JBcVy_5iaUoBbu325XSBfoqpVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89356310898-6vjptoet726n3vjcuo8462l6lnd53up4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
